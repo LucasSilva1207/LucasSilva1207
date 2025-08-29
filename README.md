@@ -1,34 +1,44 @@
-Olá, bem-vindo(a) ao meu Github!
+👋 Olá, eu sou o Lucas Silva!
 
-Sou um profissional de tecnologia, com foco em Dados, com base sólida em desenvolvimento Full-Stack e crescente experiência em automações com Python, RPA.
+💻 Profissional de tecnologia com foco em Dados, base sólida em desenvolvimento Full-Stack e experiência crescente em automação com Python e RPA.
+🚀 Tenho interesse em aplicar meu conhecimento técnico na manipulação de dados estruturados e semiestruturados, além da construção de pipelines de dados.
+📊 Motivado a colaborar em ambientes dinâmicos, contribuindo ativamente para soluções orientadas a dados e sempre em busca de novos aprendizados e desafios.
 
-Tenho interesse em aplicar meu conhecimento técnico em manipulação de dados estruturados e semiestruturados e construção de pipelines de dados. Estou motivado a colaborar em ambientes dinâmicos, onde possa contribuir ativamente para soluções orientadas a dados e seguir me aprimorando com experiências práticas e desafios técnicos.
+🛠️ Minhas Competências
+🔹 Hard Skills
 
-Veja algumas das minhas competências:
+Linguagens & Automação: Python (Selenium, PyAutoGUI), VBA, C#, Java
 
-Soft Skills
-- Aprendizado ativo
-- Comunicação clara e objetiva
-- Flexibilidade e adaptabilidade
-- Trabalho em equipe e colaboração
+Manipulação de Dados: SQL, Excel, CSV, TXT, PDF
 
-Hard Skills
-- Linguagens e automações: Python (Selenium, PyAutoGUI), VBA, C#, Java
-- Manipulação de dados: SQL, Excel, CSV, TXT, PDF
-- Bancos de dados: MySQL, PostgreSQL, MongoDB
-- Cloud: AWS
+Bancos de Dados: MySQL, PostgreSQL, MongoDB
 
-<!--
-**LucasSilva1207/LucasSilva1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud: AWS
 
-Here are some ideas to get you started:
+🔹 Soft Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aprendizado ativo
+
+Comunicação clara e objetiva
+
+Flexibilidade e adaptabilidade
+
+Trabalho em equipe e colaboração
+
+🌱 Atualmente estou...
+
+Aprofundando meus conhecimentos em Data Engineering e Cloud
+
+Praticando automação de processos com Python e RPA
+
+Explorando projetos pessoais para aplicar novas tecnologias
+
+📫 Como me encontrar
+
+LinkedIn
+ https://www.linkedin.com/in/luccas-luciano/
+
+E-mail
+ lucas.luc1207@gmail.com
+
+✨ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e trocar ideias.
